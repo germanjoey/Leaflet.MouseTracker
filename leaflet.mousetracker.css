@@ -1,0 +1,17 @@
+.lmt_pointer {
+    cursor: pointer !important;
+}
+.lmt_move {
+    cursor: move !important;
+}
+.lmt_crosshair {
+    cursor: crosshair !important;
+}
+
+.lmt_inheritcursor {
+    cursor: inherit !important;
+}
+
+.lmt-base-icon {
+    pointer-events: none !important;
+}
